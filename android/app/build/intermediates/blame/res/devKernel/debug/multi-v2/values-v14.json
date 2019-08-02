@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/brentfaragher/Documents/MCServers-Detach/android/app/build/intermediates/incremental/mergeDevKernelDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/brentfaragher/.gradle/caches/transforms-1/files-1.1/CreditCardEntry-1.5.1.aar/5c36f41498df30027b427096e60dea06/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        }
+    ]
+}

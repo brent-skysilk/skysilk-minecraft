@@ -1,0 +1,4 @@
+#Tue Jul 23 14:32:40 PDT 2019
+base.0=/Users/brentfaragher/Documents/MCServers-Detach/android/app/build/intermediates/transforms/dexMerger/devKernel/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
